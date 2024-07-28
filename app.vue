@@ -16,14 +16,12 @@ definePageMeta({
 
 <style lang="less">
 body {
-  // 
   margin: 0;
   background-color: #0C0E14;
   color: white;
 }
 
 .app {
-  // width: 1000px;
   padding: 50px;
   display: flex;
   justify-content: center;

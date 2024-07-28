@@ -26,6 +26,13 @@ const props = defineProps({
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    transition: ease-in-out .2s;
+    margin-right: 10px;
+    margin-bottom: 20px;
+
+    &:hover {
+        box-shadow: 1px 1px 20px rgb(36, 32, 32);
+    }
 
     .card_img {
         height: 70%;

@@ -1,0 +1,23 @@
+{
+  "id": "4635550",
+  "name": "block",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5924470",
+      "name": "地点",
+      "font_class": "didian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9592763",
+      "name": "地点",
+      "font_class": "didian1",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    }
+  ]
+}
