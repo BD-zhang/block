@@ -29,9 +29,6 @@ defineComponent({
 
 <style lang="less">
 .box {
-    // background-color: rgb(18, 9, 64);
-    // height: 100vh;
-    // width: 100vw;
     display: flex;
 
     .box_left {

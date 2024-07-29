@@ -27,7 +27,8 @@ body {
   justify-content: center;
 
   .app_box {
-    width: 1500px;
+    width: 1200px;
+    position: relative;
   }
 }
 </style>

@@ -1,15 +1,10 @@
 <template>
     <div class="right">
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
-        <Card img-src="/picture.png" text="Oculus Working on Update to Improve Rift S Audio"/>
+        <Detailcard :is-even="true"/>
+        <Detailcard :is-even="false"/>
+        <Detailcard :is-even="true"/>
+        <Detailcard :is-even="false"/>
+        <Detailcard :is-even="true"/>
     </div>
 </template>
 
